@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582790546368",
+    "project_id": "laptop-store-d0287",
+    "storage_bucket": "laptop-store-d0287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582790546368:android:a13a2a67a024c076b7fe25",
+        "android_client_info": {
+          "package_name": "com.example.posttest7_erickapriansyah_2009106110"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582790546368-dqlqluqin415lurn711b4mgvpdrssgtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9wJ_xklWGtx10JeaURvZV-_H0yU5SbhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582790546368-dqlqluqin415lurn711b4mgvpdrssgtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
